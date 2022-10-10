@@ -16,8 +16,8 @@ I am quick at learning new things and have a passion for new challanges. I am a 
 - Adobe Photoshop
 - Cambridge Certificate of Proficiency in English
 #### Education
-**Warsaw University** Faculty of Journalism started 10.2020 
-VI High School Warsaw 09.16 - 06.19
+- **Warsaw University** Faculty of Journalism started 10.2020 
+- VI High School Warsaw 09.16 - 06.19
 #### Work experience:
 - Backoffice at Fundacja Szkolnictwo Dziennikarskie at Journalism Faculty University of Warsaw
 - Intern at Mięta Publishing House
