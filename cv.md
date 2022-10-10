@@ -8,7 +8,7 @@ I am a student at the Warsaw University and a part-time backoffice assistant. I 
 I am quick at learning new things and have a passion for new challanges. I am a great team worker and a communicative person.
 #### Skills:
 - Python: University of Michigan certificates 
-  - [Getting started with Python](https://www.coursera.org/account/accomplishments/certificate/ENR4H8AS9KV2)
+  - [Programing for Everybody. Getting started with Python](https://www.coursera.org/account/accomplishments/certificate/ENR4H8AS9KV2)
   - [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/5FHJFWT92SWK)
 - Sql: University of Warsaw 
 - Adobe InDesign: University of Warsaw
