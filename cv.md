@@ -1,10 +1,10 @@
 # Curriculum Vitae 
 ## Julian Jaworowski 
 #### Contact Info: 
-- E-mail: julek.jaworowski@gmail.com
+- E-mail: (julek.jaworowski@gmail.com)
 - Facebook: Julian Jaworowski
 #### About me:
-I am a student at the Warsaw University and a part-time backoffice assistant. I want to learn as much as I can during the Front End course and find a job as a Junior Developer.
+I am a student at the Warsaw University and a part-time backoffice assistant. I want to **learn as much as I can** during the Front End course and **find a job as a Junior Developer**.
 I am quick at learning new things and have a passion for new challanges. I am a great team worker and a communicative person.
 #### Skills:
 - Python: University of Michigan certificates 
